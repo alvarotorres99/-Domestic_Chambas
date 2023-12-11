@@ -6,7 +6,6 @@
 
         <title>Laravel</title>
 
-        <h2>Cambio nuevo</h2>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
